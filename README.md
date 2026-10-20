@@ -33,6 +33,8 @@ Le [guide développeur](documentation/README.md) indique où intervenir et comme
 - [Travail quotidien](documentation/05-travail-quotidien.md) : contenus, fonctionnalités, vérifications et publication.
 - [Choix et contraintes](documentation/06-choix-et-contraintes.md) : import WordPress, configuration, chemins, redirections et ressources.
 
+Le déploiement de test utilise `https://inspecsteur-moustache.github.io/24regards/`, sans domaine personnalisé. Voir la [procédure de publication](documentation/05-travail-quotidien.md#publier). La section suivante décrit l’option future avec un domaine personnalisé.
+
 ## GitHub Pages
 
 Le workflow `.github/workflows/pages.yml` vérifie les types, l’architecture et les tests, génère le site, puis teste les parcours dans Chromium. Les pull requests exécutent les contrôles; `main` publie `build/` avec les actions officielles Pages.
