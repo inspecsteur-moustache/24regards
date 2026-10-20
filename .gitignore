@@ -1,0 +1,13 @@
+node_modules/
+.svelte-kit/
+build/
+.tools/
+.cache/
+test-results/
+playwright-report/
+static/pdfs/
+static/vendor/
+static/THIRD_PARTY_NOTICES.txt
+.env
+.env.*
+!.env.example

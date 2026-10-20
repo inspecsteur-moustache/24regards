@@ -1,0 +1,12 @@
+{
+  "siteUrl": "https://le24regards.ca",
+  "contactName": "24 Regards",
+  "email": "le24regards@gmail.com",
+  "blueskyUrl": "https://bsky.app/profile/le24regards.bsky.social",
+  "instagramUrl": "",
+  "newsletter": {
+    "actionUrl": "",
+    "emailFieldName": "email",
+    "hiddenFields": {}
+  }
+}

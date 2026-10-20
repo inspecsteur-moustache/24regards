@@ -1,0 +1,10 @@
+node_modules
+.svelte-kit
+.tools
+.cache
+build
+static
+PDFs
+package-lock.json
+test-results
+playwright-report

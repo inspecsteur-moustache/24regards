@@ -1,0 +1,143 @@
+[
+  {
+    "slug": "billy-b",
+    "name": "Billy B.",
+    "role": "Rédacteur/Graphiste",
+    "favorites": [
+      "Babe : Pig in the City (George Miller, 1998)",
+      "Le chat du rabbin (Antoine Delesvaux et Joann Sfar, 2011)",
+      "Children of Men (Alfonso Cuarón, 2006)",
+      "GoodFellas (Martin Scorsese, 1990)",
+      "Lessons from a Calf (Hirokazu Kore-eda, 1991)",
+      "Lord of the Rings : The Return of the King (Peter Jackson, 1993)",
+      "Millenium Actress (Satoshi Kon, 2001)",
+      "Mind Game (Masaaki Yuasa, 2004)",
+      "Punch-Drunk Love (Paul Thomas Anderson, 2002)",
+      "Spider-Man (Sam Raimi, 2002)"
+    ],
+    "texts": [
+      {
+        "title": "Les souvenirs de la violence : Memories of Murder (Juillet 2025)",
+        "kind": "magazine",
+        "target": "10"
+      }
+    ]
+  },
+  {
+    "slug": "ja",
+    "name": "JA",
+    "role": "Rédactrice",
+    "favorites": [
+      "Beautiful Boy (Felix Van Groeningen, 2018)",
+      "Eternal Sunshine of the Spotless Mind (Michel Gondry, 2004)",
+      "Hillbilly Elegy (Ron Howard, 2020)",
+      "Horns (Alexandre Aja, 2013)",
+      "Hotel Rwanda (Terry George, 2004)",
+      "Into the Wild (Sean Penn, 2007)",
+      "The Lighthouse (Robert Eggers, 2019)",
+      "Peanut Butter Falcon (Tyler Nilson et Michael Schwartz, 2019)",
+      "Remember Me (Allen Coulter, 2010)",
+      "Trainspotting (Danny Boyle, 1996)"
+    ],
+    "texts": [
+      {
+        "title": "Une héroïne qui traverse les époques avec authenticité : Bridget Jones (Juin 2025)",
+        "kind": "magazine",
+        "target": "9"
+      }
+    ]
+  },
+  {
+    "slug": "mathieu-giroux",
+    "name": "Mathieu Giroux",
+    "role": "Rédacteur en chef",
+    "favorites": [
+      "Apocalypse Now (Francis Ford Coppola, 1979)",
+      "Chungking Express (Wong Kar-wai, 1994)",
+      "Cure (Kiyoshi Kurosawa, 1997)",
+      "Do the Right Thing (Spike Lee, 1989)",
+      "It’s Such A Beautiful Day (Don Hertzfeldt, 2012)",
+      "Parasite (Bong Joon Ho, 2019)",
+      "Une affaire de famille (Hirokazu Kore-eda, 2018)",
+      "Vivre (Akira Kurosawa, 1952)",
+      "Whiplash (Damien Chazelle, 2014)",
+      "Yes Sir! Madame… (Robert Morin, 1994)"
+    ],
+    "texts": [
+      {
+        "title": "Complot sous les tropiques – L’Agent secret (décembre 2025)",
+        "kind": "article",
+        "target": "critique-lagent-secret"
+      },
+      {
+        "title": "Perdu dans son audace – Him (Octobre 2025)",
+        "kind": "article",
+        "target": "critique-him"
+      },
+      {
+        "title": "Le 24 Regards – N°11 (Octobre 2025)",
+        "kind": "magazine",
+        "target": "11"
+      },
+      {
+        "title": "Casse-tête macabre à Maybrook – Weapons (Août 2025)",
+        "kind": "article",
+        "target": "critique-weapons"
+      },
+      {
+        "title": "Voyage chaleureux sous nuages gris – Super Happy Forever (Août 2025)",
+        "kind": "article",
+        "target": "critique-super-happy-forever"
+      },
+      {
+        "title": "22 ans et 8 mois plus tard (Juillet 2025)",
+        "kind": "magazine",
+        "target": "10"
+      },
+      {
+        "title": "La beauté d’un grain de sable : The Life of Chuck (Juillet 2025)",
+        "kind": "magazine",
+        "target": "10"
+      },
+      {
+        "title": "Pourquoi aimons-nous le cinéma ? (Juin 2025)",
+        "kind": "magazine",
+        "target": "9"
+      },
+      {
+        "title": "La décomposition d’un film en direct : The Shrouds (Juin 2025)",
+        "kind": "magazine",
+        "target": "9"
+      },
+      {
+        "title": "La Nuit fébrile de Ari Aster – Eddington",
+        "kind": "article",
+        "target": "critique-eddington"
+      }
+    ]
+  },
+  {
+    "slug": "tarek-ammi",
+    "name": "Tarek Ammi",
+    "role": "Rédacteur",
+    "favorites": [
+      "The Bourne Identity (Doug Liman, 2002)",
+      "Le commando (Gareth Evans, 2011)",
+      "Cure (Kiyoshi Kurosawa, 1997)",
+      "Les Dieux du jeu (Wong Jing, 1989)",
+      "Double suicide à Amijima (Masahiro Shinoda, 1969)",
+      "La haine (Mathieu Kassovitz, 1995)",
+      "House (Nobuhiko Ôbayashi, 1977)",
+      "Spider-Man (Sam Raimi, 2002)",
+      "The Substance (Coralie Fargeat, 2024)",
+      "Xiao Wu, artisan pickpocket (Jia Zhang-ke, 1997)"
+    ],
+    "texts": [
+      {
+        "title": "Le vrai regard de la langue (Juin 2025)",
+        "kind": "magazine",
+        "target": "9"
+      }
+    ]
+  }
+]

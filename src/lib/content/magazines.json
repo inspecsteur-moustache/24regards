@@ -1,0 +1,26 @@
+[
+  {
+    "id": "11",
+    "number": 11,
+    "title": "N°11 — Octobre 2025",
+    "publicationMonth": "2025-10",
+    "pdfFile": "/pdfs/24-regards-n11-septembre-2025.pdf",
+    "legacyPath": "/n11-octobre-2025/"
+  },
+  {
+    "id": "10",
+    "number": 10,
+    "title": "N°10 — Juillet 2025",
+    "publicationMonth": "2025-07",
+    "pdfFile": "/pdfs/24-regards-n10-juillet-2025.pdf",
+    "legacyPath": "/n10-juillet-2025/"
+  },
+  {
+    "id": "9",
+    "number": 9,
+    "title": "N°9 — Juin 2025",
+    "publicationMonth": "2025-06",
+    "pdfFile": "/pdfs/24-regards-n9-juin-2025.pdf",
+    "legacyPath": "/n9-mai-2025/"
+  }
+]

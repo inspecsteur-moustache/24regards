@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="fr-CA">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f4efe5" />
+    <script>
+      let initialTheme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      try {
+        const saved = localStorage.getItem('24regards-theme');
+        if (saved === 'dark' || saved === 'light') initialTheme = saved;
+      } catch {
+        // Conserver la préférence du navigateur si le stockage est indisponible.
+      }
+      document.documentElement.dataset.theme = initialTheme;
+    </script>
+    %sveltekit.head%
+  </head>
+  <body data-sveltekit-preload-data="hover">
+    <div style="display: contents">%sveltekit.body%</div>
+  </body>
+</html>

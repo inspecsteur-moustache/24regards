@@ -1,0 +1,41 @@
+{
+  "name": "24-regards",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "imports": {
+    "#lib/*": "./src/lib/*"
+  },
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "dev": "node scripts/prepare-assets.mjs && vite --host 127.0.0.1",
+    "build": "node scripts/prepare-assets.mjs && node scripts/validate-content.mjs && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json && node scripts/check-architecture.mjs",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "test:base": "playwright test --config playwright.base.config.ts",
+    "format": "prettier --write .",
+    "import:content": "node scripts/import-content.mjs"
+  },
+  "dependencies": {
+    "@openpageflip/core": "0.7.0",
+    "pdfjs-dist": "6.4.299"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@sveltejs/adapter-static": "4.0.0",
+    "@sveltejs/kit": "3.1.0",
+    "@sveltejs/vite-plugin-svelte": "7.3.1",
+    "@types/node": "^24.0.0",
+    "prettier": "3.9.10",
+    "prettier-plugin-svelte": "4.1.1",
+    "svelte": "5.57.2",
+    "svelte-check": "4.7.7",
+    "typescript": "^6.0.0",
+    "vite": "8.3.4",
+    "vitest": "5.0.5"
+  }
+}
